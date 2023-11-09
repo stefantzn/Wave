@@ -33,8 +33,8 @@ Made using React Native and selected libraries with the use of Google Cloud API 
 
 ## Gallery
 
-![HomeScreen](images/HomeScreen.PNG)
-![WordSearch](images/WordSearch.PNG)
-![TileMatch](images/TileMatch.PNG)
+<img src="images/HomeScreen.PNG" alt="HomeScreen" width="200"/>
+<img src="images/WordSearch.PNG" alt="WordSearch" width="200"/>
+<img src="images/TileMatch.PNG" alt="TileMatch" width="200"/>
 
-Project created for the 2023 University of Waterloo Velocity's AgeTech challenge.
+#### Project created for the 2023 University of Waterloo Velocity's AgeTech challenge.
