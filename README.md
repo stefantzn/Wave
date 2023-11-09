@@ -1,79 +1,40 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Wave
 
-# Getting Started
+![logo](images/logo.png)
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+### Welcome to Wave
+The ultimate iOS app designed with seniors in mind, providing a holistic approach to well-being by fostering connections, mental stimulation, and physical activity.
 
-## Step 1: Start the Metro Server
+### Features
+Connect with Ease
+Wave enables seniors to connect with like-minded individuals through language and shared interests. Our user-friendly interface ensures a seamless experience, making it easy to build connections and form lasting friendships.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+### Brain Training Games
+Keep your mind sharp with Wave's two engaging games:
 
-To start Metro, run the following command from the _root_ of your React Native project:
+### Word Search
+Challenge yourself with classic word search puzzles designed to enhance cognitive abilities and vocabulary. Choose from various difficulty levels to tailor the experience to your preference.
 
-```bash
-# using npm
-npm start
+### Memory Match
+Exercise your memory with the timeless match-2 tiles game. Sharpen your concentration and cognitive skills while having fun with this entertaining and nostalgic game.
 
-# OR using Yarn
-yarn start
-```
+### Physical Health Tracking
+Wave goes beyond just mental stimulation by helping you stay physically active. Track your daily steps and set goals to maintain a healthy lifestyle. Connect with friends to compare and motivate each other, turning fitness into a social experience.
 
-## Step 2: Start your Application
+### Connect and Chat
+Explore a community of seniors, send friend requests, and start conversations to build meaningful connections.
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+### Why Wave?
+Tailored for Seniors: Wave understands the unique needs of seniors and provides a user-friendly experience.
 
-### For Android
+## Tech
 
-```bash
-# using npm
-npm run android
+Made using React Native and selected libraries with the use of Google Cloud API to support the active translation structure.
 
-# OR using Yarn
-yarn android
-```
+## Gallery
 
-### For iOS
+![HomeScreen](images/HomeScreen.PNG)
+![WordSearch](images/WordSearch.PNG)
+![TileMatch](images/TileMatch.PNG)
 
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+Project created for the 2023 University of Waterloo Velocity's AgeTech challenge.
