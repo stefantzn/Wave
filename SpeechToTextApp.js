@@ -8,8 +8,8 @@ const App = () => {
   const [result, setResult] = useState('');
   const [translatedTexts, setTranslatedTexts] = useState('');
   const [isLoading, setLoading] = useState(false);
-  const [selectedLanguage, setSelectedLanguage] = useState('english'); // Initialize with a default language
-  const API_KEY = 'AIzaSyC9M7Ji1Rbpmzo0iz1LVAsWo-Z9kE6UKyY';
+  const [selectedLanguage, setSelectedLanguage] = useState('english');
+  const API_KEY = 'REDACTED'; // Add API 
   const BASE_URL = 'https://translation.googleapis.com/language/translate/v2';
   const scrollViewRef = useRef();
 
