@@ -38,4 +38,4 @@ Made using [React Native](https://reactnative.dev/) and selected libraries with 
 <img src="images/TileMatch.PNG" alt="TileMatch" width="200"/>
 </p>
 
-#### Project created for the 2023 University of Waterloo [Velocity's](https://velocityincubator.com/) AgeTech challenge 🧠
+#### Project created for the 2023 University of Waterloo [Velocity's](https://velocityincubator.com/) AgeTech Challenge 🧠
