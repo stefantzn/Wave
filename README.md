@@ -10,12 +10,12 @@ Connect with Ease
 Wave enables seniors to connect with like-minded individuals through language and shared interests. Our user-friendly interface ensures a seamless experience, making it easy to build connections and form lasting friendships.
 
 ### Brain Training Games
-Keep your mind sharp with Wave's two engaging games:
+Keep your mind sharp with Wave's two engaging games: Word Search and Tile Match
 
 ### Word Search
 Challenge yourself with classic word search puzzles designed to enhance cognitive abilities and vocabulary. Choose from various difficulty levels to tailor the experience to your preference.
 
-### Memory Match
+### Tile Match
 Exercise your memory with the timeless match-2 tiles game. Sharpen your concentration and cognitive skills while having fun with this entertaining and nostalgic game.
 
 ### Physical Health Tracking
