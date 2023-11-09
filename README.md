@@ -29,7 +29,7 @@ Tailored for Seniors: Wave understands the unique needs of seniors and provides 
 
 ## Tech
 
-Made using React Native and selected libraries with the use of Google Cloud API to support the active translation structure.
+Made using [React Native](https://reactnative.dev/) and selected libraries with the use of [Google Cloud API](https://cloud.google.com/apis) to support the active translation structure.
 
 ## Gallery
 <p float="left">
